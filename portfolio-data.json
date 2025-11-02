@@ -1,0 +1,178 @@
+{
+  "settings": {
+    "name": "Hardika Raut",
+    "title": "Web developer | Full stack development | UX Designer",
+    "location": "India",
+    "summary": "A web developer with expertise in full-stack development and UX design, creating innovative and user-friendly applications.",
+    "profileImage": "https://i.postimg.cc/Jh4dGbsD/resume-pic.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:work.rauthardika@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "JavaScript",
+          "Python",
+          "React",
+          "Node.js",
+          "HTML",
+          "CSS",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": false,
+      "title": "Work Experience",
+      "items": []
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Pizza Restaurant Management System",
+          "description": "Developed a full-stack Pizza Restaurant Management System using PHP, MySQL, and Bootstrap.",
+          "tags": [
+            "PHP",
+            "MySQL",
+            "Bootstrap"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "Emotion Responsive E-learning",
+          "description": "Built an adaptive learning platform using React.js, Material-UI, and Node.js that personalizes content delivery.",
+          "tags": [
+            "React.js",
+            "Material-UI",
+            "Node.js",
+            "TensorFlow.js"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Modern College of Engineering (Pune)",
+          "degree": "Master of Computer Applications",
+          "period": "2024 - 2026"
+        },
+        {
+          "institution": "Dr. D. Y. Patil Arts Commerce and Science College, Pimpri",
+          "degree": "Bachelors of Computer Applications",
+          "period": "2021 - 2024"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Foundations of User Experience (UX) Design by Google",
+          "description": "Certification from Google.",
+          "url": null
+        },
+        {
+          "title": "Build Dynamic User Interfaces (UI) for Websites by Google",
+          "description": "Certification from Google.",
+          "url": null
+        },
+        {
+          "title": "Conduct UX Research and Test Early Concepts by Google",
+          "description": "Certification from Google.",
+          "url": null
+        },
+        {
+          "title": "Build Wireframes and Low Fidelity Prototypes by Google",
+          "description": "Certification from Google.",
+          "url": null
+        },
+        {
+          "title": "Data Analyst: Excel, SQL & Tableau - 3-in-1 Bundle by Udemy",
+          "description": "Certification from Udemy.",
+          "url": null
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "work.rauthardika@gmail.com",
+      "phone": "9594763972",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/hardika-raut-2259b828b",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/hardikavijaykumarraut-lab",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Hardika Raut. All rights reserved."
+  }
+}
